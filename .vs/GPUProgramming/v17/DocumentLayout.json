@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\uACF5\uBD80\\OpenGL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20932ABB-C312-40DF-B83A-8CE582F45599}|HelloTriangle\\HelloTriangle.vcxproj|D:\\\uACF5\uBD80\\OpenGL\\HelloTriangle\\src\\HelloTriangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20932ABB-C312-40DF-B83A-8CE582F45599}|HelloTriangle\\HelloTriangle.vcxproj|solutionrelative:HelloTriangle\\src\\HelloTriangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HelloTriangle.cpp",
+              "DocumentMoniker": "D:\\\uACF5\uBD80\\OpenGL\\HelloTriangle\\src\\HelloTriangle.cpp",
+              "RelativeDocumentMoniker": "HelloTriangle\\src\\HelloTriangle.cpp",
+              "ToolTip": "D:\\\uACF5\uBD80\\OpenGL\\HelloTriangle\\src\\HelloTriangle.cpp",
+              "RelativeToolTip": "HelloTriangle\\src\\HelloTriangle.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-14T14:19:32.458Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
