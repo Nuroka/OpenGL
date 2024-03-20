@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\inhyu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Week3_preclass(1)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20932ABB-C312-40DF-B83A-8CE582F45599}|TextureMapping\\TextureMapping.vcxproj|C:\\Users\\inhyu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Week3_preclass(1)\\TextureMapping\\src\\TextureMapping.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20932ABB-C312-40DF-B83A-8CE582F45599}|TextureMapping\\TextureMapping.vcxproj|solutionrelative:TextureMapping\\src\\TextureMapping.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20932ABB-C312-40DF-B83A-8CE582F45599}|TextureMapping\\TextureMapping.vcxproj|C:\\Users\\inhyu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Week3_preclass(1)\\TextureMapping\\shader\\4.1.texture.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{20932ABB-C312-40DF-B83A-8CE582F45599}|TextureMapping\\TextureMapping.vcxproj|solutionrelative:TextureMapping\\shader\\4.1.texture.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20932ABB-C312-40DF-B83A-8CE582F45599}|TextureMapping\\TextureMapping.vcxproj|C:\\Users\\inhyu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Week3_preclass(1)\\TextureMapping\\shader\\4.1.texture.vs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{20932ABB-C312-40DF-B83A-8CE582F45599}|TextureMapping\\TextureMapping.vcxproj|solutionrelative:TextureMapping\\shader\\4.1.texture.vs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TextureMapping.cpp",
+              "DocumentMoniker": "C:\\Users\\inhyu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Week3_preclass(1)\\TextureMapping\\src\\TextureMapping.cpp",
+              "RelativeDocumentMoniker": "TextureMapping\\src\\TextureMapping.cpp",
+              "ToolTip": "C:\\Users\\inhyu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Week3_preclass(1)\\TextureMapping\\src\\TextureMapping.cpp",
+              "RelativeToolTip": "TextureMapping\\src\\TextureMapping.cpp",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAAAGMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-20T04:07:24.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "4.1.texture.vs",
+              "DocumentMoniker": "C:\\Users\\inhyu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Week3_preclass(1)\\TextureMapping\\shader\\4.1.texture.vs",
+              "RelativeDocumentMoniker": "TextureMapping\\shader\\4.1.texture.vs",
+              "ToolTip": "C:\\Users\\inhyu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Week3_preclass(1)\\TextureMapping\\shader\\4.1.texture.vs",
+              "RelativeToolTip": "TextureMapping\\shader\\4.1.texture.vs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-20T04:06:03.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "4.1.texture.fs",
+              "DocumentMoniker": "C:\\Users\\inhyu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Week3_preclass(1)\\TextureMapping\\shader\\4.1.texture.fs",
+              "RelativeDocumentMoniker": "TextureMapping\\shader\\4.1.texture.fs",
+              "ToolTip": "C:\\Users\\inhyu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Week3_preclass(1)\\TextureMapping\\shader\\4.1.texture.fs",
+              "RelativeToolTip": "TextureMapping\\shader\\4.1.texture.fs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-20T04:04:45.003Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
