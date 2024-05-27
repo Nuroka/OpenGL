@@ -1,0 +1,38 @@
+﻿  skeletal_animation.cpp
+C:\Users\inhyu\OneDrive\바탕 화면\2차\normal_mapping\include\learnopengl\bone.h(45,20): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\inhyu\OneDrive\바탕 화면\2차\normal_mapping\include\learnopengl\bone.h(56,20): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\inhyu\OneDrive\바탕 화면\2차\normal_mapping\include\learnopengl\bone.h(67,20): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\inhyu\OneDrive\바탕 화면\2차\normal_mapping\include\learnopengl\model_animation.h(174,37): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\inhyu\OneDrive\바탕 화면\2차\normal_mapping\include\learnopengl\animation.h(31,25): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\inhyu\OneDrive\바탕 화면\2차\normal_mapping\include\learnopengl\animation.h(32,31): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\inhyu\OneDrive\바탕 화면\2차\normal_mapping\include\learnopengl\animation.h(56,44): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\inhyu\OneDrive\바탕 화면\2차\normal_mapping\include\learnopengl\animation.h(98,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\inhyu\OneDrive\바탕 화면\2차\normal_mapping\src\skeletal_animation.cpp(424,11): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\inhyu\OneDrive\바탕 화면\2차\normal_mapping\src\skeletal_animation.cpp(425,11): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\inhyu\OneDrive\바탕 화면\2차\normal_mapping\src\skeletal_animation.cpp(429,16): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\inhyu\OneDrive\바탕 화면\2차\normal_mapping\src\skeletal_animation.cpp(430,16): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\inhyu\OneDrive\바탕 화면\2차\normal_mapping\src\skeletal_animation.cpp(432,10): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\inhyu\OneDrive\바탕 화면\2차\normal_mapping\src\skeletal_animation.cpp(433,10): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\inhyu\OneDrive\바탕 화면\2차\normal_mapping\src\skeletal_animation.cpp(442,28): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+LINK : warning LNK4098: 'MSVCRTD' defaultlib가 다른 라이브러리와 충돌합니다. /NODEFAULTLIB:library를 사용하십시오.
+  코드를 생성하고 있습니다.
+  4 of 1427 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    7 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+glfw3.lib(context.obj) : warning LNK4099: '' PDB를 'glfw3.lib(context.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(window.obj) : warning LNK4099: '' PDB를 'glfw3.lib(window.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(input.obj) : warning LNK4099: '' PDB를 'glfw3.lib(input.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(init.obj) : warning LNK4099: '' PDB를 'glfw3.lib(init.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(win32_thread.obj) : warning LNK4099: '' PDB를 'glfw3.lib(win32_thread.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(win32_window.obj) : warning LNK4099: '' PDB를 'glfw3.lib(win32_window.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(win32_joystick.obj) : warning LNK4099: '' PDB를 'glfw3.lib(win32_joystick.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(win32_time.obj) : warning LNK4099: '' PDB를 'glfw3.lib(win32_time.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(win32_init.obj) : warning LNK4099: '' PDB를 'glfw3.lib(win32_init.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(win32_monitor.obj) : warning LNK4099: '' PDB를 'glfw3.lib(win32_monitor.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(monitor.obj) : warning LNK4099: '' PDB를 'glfw3.lib(monitor.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(vulkan.obj) : warning LNK4099: '' PDB를 'glfw3.lib(vulkan.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(wgl_context.obj) : warning LNK4099: '' PDB를 'glfw3.lib(wgl_context.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(egl_context.obj) : warning LNK4099: '' PDB를 'glfw3.lib(egl_context.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(osmesa_context.obj) : warning LNK4099: '' PDB를 'glfw3.lib(osmesa_context.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+  NormalMapping.vcxproj -> C:\Users\inhyu\OneDrive\바탕 화면\2차\x64\Release\NormalMapping.exe
