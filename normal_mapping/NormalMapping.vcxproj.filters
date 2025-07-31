@@ -16,6 +16,9 @@
     <ClInclude Include="stb_image.h">
       <Filter>Header</Filter>
     </ClInclude>
+    <ClInclude Include="application.h">
+      <Filter>Source</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Shader">
@@ -32,7 +35,7 @@
     <ClCompile Include="src\glad.c">
       <Filter>Source</Filter>
     </ClCompile>
-    <ClCompile Include="src\skeletal_animation.cpp">
+    <ClCompile Include="application.cpp">
       <Filter>Source</Filter>
     </ClCompile>
   </ItemGroup>

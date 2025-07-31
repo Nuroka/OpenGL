@@ -41,7 +41,7 @@ The engine is implemented in C++ and uses shaders written in GLSL for real-time 
 
 ## 🖥️ Demo Screenshot  
 > *(Optional: Include a GIF or image here)*  
-![screenshot](./screenshot.png)
+![Animated Demo](./example.gif)
 
 ---
 
